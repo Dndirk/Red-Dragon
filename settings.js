@@ -39,7 +39,7 @@ global.author = '🅢🅐🅓🅐🅡🅤🅦🅐🅝' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
-global.dragonemoji = '←♡→' // Menu emoji
+global.dragonemoji = '♦️' // Menu emoji
 global.footer = '©_𝚂𝙰𝙳𝚄𝚆𝙰.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
